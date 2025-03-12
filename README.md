@@ -5,7 +5,7 @@
 📱 You can connect with me on my instagram: https://www.instagram.com/_samx.th_?igsh=MXJqZ2djNHl0bWtidg%3D%3D&utm_source=qr
 
 # 💫 About Me:
-🔭 I’m currently working on E commerce using next js<br>👯 I’m looking to collaborate on MERN stack development<br>🤝 I’m looking for help with Back end<br>🌱 I’m currently learning MERN<br>⚡ Fun fact
+🔭 I’m currently working on : E commerce using next js<br>👯 I’m looking to collaborate on : MERN stack development<br>🤝 I’m looking for help with : Back end<br>🌱 I’m currently learning :MERN<br>⚡ Fun fact : I can't go a day without sitting in front of my computer
 
 
 ## 🌐 Socials:
