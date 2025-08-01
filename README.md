@@ -1,6 +1,6 @@
 ## Hello there, I am Samarth🫰🏼
-🏫 Computer Science student at Presidency University
-💻 Currently in the penultimate year
+🏫 Computer Science student
+💻 Currently in the final year
 📃 I like exploring the abilities of AI and GPT in the field of CS
 📱 You can connect with me on my instagram: https://www.instagram.com/_samx.th_?igsh=MXJqZ2djNHl0bWtidg%3D%3D&utm_source=qr
 
